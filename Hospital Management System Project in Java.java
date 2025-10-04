@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 import java.util.Calendar;
-/* Hospital Management System Project in Java with Source Code PDF Visit for more https://www.programmingwithbasics.com/ */
+/* Hospital Management System Project in Java with Source Code */
 class staff
 {
     String sid, sname, desg, sex;
